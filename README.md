@@ -4,7 +4,7 @@
 
 ### I don't wait until I know how. I figure it out.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=I+build+things.;I+break+things.;I+figure+things+out.;I+turn+ideas+into+working+projects.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=I+build+things.;I+break+things.;I+figure+things+out.;I+turn+ideas+into+working+projects.)](https://git.io/typing-svg)
 
 **Builder • Developer • Problem Solver**
 
@@ -14,15 +14,93 @@
 
 ---
 
-## `> whoami`
+## `> developer_profile`
+
+<table>
+<tr>
+<td width="52%" valign="top">
 
 ```text
-NAME        Ramsfield
-GITHUB      @Ramsfield30
-FOCUS       Software • Web • AI • Automation
-INTERESTS   Cybersecurity • Developer Tools • Android
-APPROACH    Build → Break → Learn → Improve
+                                 @.     ...@
+                             @@@@@         @@@@@@@
+                          @@@@                   @@@@
+                       @@@@                         @@@@
+                      @@                               @@@
+                    @@@                                  @@@
+                   @@                                      @@
+                  @@@@@@@@@@@@@@@@@@@@#############@@@      @@
+                 @@@@@@@@@@@@@@@@@@@################@@       @@
+                @@@@@@@@@@@@@@@@@@@@@@@@@@###########@        @@
+                @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@########         @@
+               @@@@@@@@@@@@####****+++++++**##@@@@####          @@
+              @@@@@@@@@@@####***+++++======++**##@@@@#           @
+              @@@@@@@@@@#####***+++++=========+*###@@@           @@
+             @@@@@@@@@#@@@##***+++++=====++**###*####@            @@
+            @@@@@@@@@@###@@@@@##*++++++*#@@@@@@@#@#*##             @
+           @ @@@@@@@@@#@@##@@@###*++++****=+**++*++*#              @
+           @@ @@@@@@@@@####***++*##**++++==+++====++#@              @@
+           @  @@@@@@@@@@#######@@@@@###############@@@ ..            @
+          @@  @@@@@@@@@@@@@@@@@@@@@@##############@@@@                @
+         @@   @@@@@@@@@@@@@@@@@@@@@@@@#########@@@@@@@                @@
+        @@    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                 @@@
+        @     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#@                   @@
+        @@    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#*#@                    @
+         @@@  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#***#@                     @
+           @@ @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*++***#                      @
+            @ @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@##*+++*#@@                      @
+            @                              ......                           @
+            @                           ......                              @@
+           @@                          .....                                 @
+           @                            .                                     @@
+           @                                                                   @@@
+        @@@@
+   @@@@@@
+@@@@
 ```
+
+</td>
+<td width="48%" valign="top">
+
+### `ramsfield@github`
+
+```text
+USERNAME    Ramsfield30
+ROLE        Builder / Developer
+FOCUS       Software • Web • AI
+            Automation • Security
+
+APPROACH    Build → Break → Learn
+            → Improve
+
+CURRENTLY   Building things
+            Learning what I need
+            Experimenting
+
+MINDSET     If I don't know how,
+            I figure it out.
+```
+
+### `stack`
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="38" alt="Python" title="Python"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="38" alt="Kotlin" title="Kotlin"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="38" alt="C++" title="C++"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="38" alt="JavaScript" title="JavaScript"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="38" alt="HTML5" title="HTML5"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="38" alt="CSS3" title="CSS3"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="38" alt="Node.js" title="Node.js"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> what_i_build`
+
+**Web applications** · **Android applications** · **AI & automation** · **Bots & developer tools** · **Security & networking** · **Experiments**
 
 I build things that start as ideas and turn into working projects.
 
@@ -32,33 +110,31 @@ Sometimes, **building is how I find the answer.**
 
 ---
 
-## `> what_i_build`
-
-🌐 Web applications  ·  📱 Android applications  ·  🤖 AI & automation  ·  ⚙️ Bots & developer tools  ·  🔐 Security & networking  ·  🧪 Experiments
-
----
-
 ## `> featured_projects`
 
 | Project | What it is | Focus |
 | --- | --- | --- |
-| 🧩 **[JoinUp](https://github.com/Ramsfield30/JoinUp)** | Discover WhatsApp & Telegram groups by category | `Web` `Supabase` |
-| 🧑‍💻 **[Rams Editor](https://github.com/Ramsfield30/rams-editor)** | Android code editor / development environment | `Android` `Developer Tools` |
-| 🛡️ **[Focus Guard](https://github.com/Ramsfield30/focus-guard)** | Android focus & distraction-control app | `Android` |
-| 🌐 **[Ramsfield](https://github.com/Ramsfield30/Ramsfield)** | Personal portfolio website | `HTML` `CSS` `JavaScript` |
-| 🔎 **[IP Lookup Tool](https://github.com/Ramsfield30/ip-lookup-tool-)** | Lightweight IP/networking utility | `Networking` |
+| **[JoinUp](https://github.com/Ramsfield30/JoinUp)** | Discover WhatsApp & Telegram groups by category | `Web` `Supabase` |
+| **[Rams Editor](https://github.com/Ramsfield30/rams-editor)** | Android code editor / development environment | `Android` `Developer Tools` |
+| **[Focus Guard](https://github.com/Ramsfield30/focus-guard)** | Android focus & distraction-control app | `Android` |
+| **[Ramsfield](https://github.com/Ramsfield30/Ramsfield)** | Personal portfolio website | `HTML` `CSS` `JavaScript` |
+| **[IP Lookup Tool](https://github.com/Ramsfield30/ip-lookup-tool-)** | Lightweight IP/networking utility | `Networking` |
 
 ---
 
 ## `> stack`
 
-```text
-LANGUAGES
-  Python • JavaScript • C++ • HTML/CSS • Kotlin
+<div align="center">
 
-TOOLS & PLATFORMS
-  Git • GitHub • Android • Supabase • Vercel • SQLite • Telegram
-```
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" alt="Python" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="45" alt="Kotlin" title="Kotlin"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="45" alt="C++" title="C++"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" alt="JavaScript" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" alt="HTML5" title="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" alt="CSS3" title="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="45" alt="Node.js" title="Node.js"/>
+
+</div>
 
 > The stack changes. The mindset doesn't.
 
