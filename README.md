@@ -6,6 +6,8 @@
 
 **Builder • Developer • Problem Solver**
 
+[🌐 Portfolio](https://ramsfield.vercel.app) · [💻 GitHub](https://github.com/Ramsfield30)
+
 </div>
 
 ---
@@ -30,87 +32,35 @@ Sometimes, **building is how I find the answer.**
 
 ## `> what_i_build`
 
-- 🌐 Web applications
-- 📱 Android applications
-- 🤖 AI & automation projects
-- ⚙️ Bots and developer tools
-- 🔐 Security & networking utilities
-- 🧪 Experimental projects
+🌐 Web applications  ·  📱 Android applications  ·  🤖 AI & automation  ·  ⚙️ Bots & developer tools  ·  🔐 Security & networking  ·  🧪 Experiments
 
 ---
 
 ## `> featured_projects`
 
-### 🧩 JoinUp
-
-A platform for discovering WhatsApp and Telegram groups by category.
-
-**Stack:** `HTML` `CSS` `JavaScript` `Supabase`
-
-🔗 https://joinup-two.vercel.app
-
----
-
-### 🧑‍💻 Rams Editor
-
-An Android code editor project focused on bringing a capable development
-environment directly to a phone.
-
-**Focus:** `Code Editing` `Preview` `Developer Tools`
+| Project | What it is | Focus |
+| --- | --- | --- |
+| 🧩 **[JoinUp](https://github.com/Ramsfield30/JoinUp)** | Discover WhatsApp & Telegram groups by category | `Web` `Supabase` |
+| 🧑‍💻 **[Rams Editor](https://github.com/Ramsfield30/rams-editor)** | Android code editor / development environment | `Android` `Developer Tools` |
+| 🛡️ **[Focus Guard](https://github.com/Ramsfield30/focus-guard)** | Android focus & distraction-control app | `Android` |
+| 🌐 **[Ramsfield](https://github.com/Ramsfield30/Ramsfield)** | Personal portfolio website | `HTML` `CSS` `JavaScript` |
+| 🔎 **[IP Lookup Tool](https://github.com/Ramsfield30/ip-lookup-tool-)** | Lightweight IP/networking utility | `Networking` |
 
 ---
 
-### 🛡️ Focus Guard
-
-An Android application built around helping users stay focused
-and reduce distractions.
-
-**Platform:** `Android`
-
----
-
-### 🌐 Ramsfield
-
-My personal portfolio and developer website.
-
-**Stack:** `HTML` `CSS` `JavaScript`
-
-🔗 https://ramsfield.vercel.app
-
----
-
-### 🔎 IP Lookup Tool
-
-A lightweight networking utility for working with IP information.
-
-**Focus:** `Networking` `Developer Utilities`
-
----
-
-## `> tools`
+## `> stack`
 
 ```text
 LANGUAGES
-  Python
-  JavaScript
-  C++
-  HTML / CSS
-  Kotlin
+  Python • JavaScript • C++ • HTML/CSS • Kotlin
 
-TOOLS
-  Git
-  GitHub
-  Android
-  Supabase
-  Vercel
-  SQLite
-  Telegram
+TOOLS & PLATFORMS
+  Git • GitHub • Android • Supabase • Vercel • SQLite • Telegram
 ```
 
 > The stack changes. The mindset doesn't.
 
-If a project requires something I don't know,
-I'll learn what I need.
+If a project requires something I don't know, I'll learn what I need.
 
 ---
 
@@ -122,8 +72,22 @@ LEARNING        ████████████████████
 EXPERIMENTING   ████████████████████
 ```
 
-Exploring software, AI, web development, automation,
-cybersecurity, and whatever interesting problem comes next.
+Exploring software, AI, web development, automation, cybersecurity,
+and whatever interesting problem comes next.
+
+---
+
+## `> github`
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ramsfield30&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+[![Ramsfield's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramsfield30&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)](https://github.com/Ramsfield30)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramsfield30&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Ramsfield30)
+
+</div>
 
 ---
 
@@ -135,11 +99,8 @@ cybersecurity, and whatever interesting problem comes next.
 
 ## `> find_me`
 
-🌐 **Portfolio**  
-https://ramsfield.vercel.app
-
-💻 **GitHub**  
-https://github.com/Ramsfield30
+🌐 **Portfolio:** [ramsfield.vercel.app](https://ramsfield.vercel.app)  
+💻 **GitHub:** [github.com/Ramsfield30](https://github.com/Ramsfield30)
 
 ---
 
