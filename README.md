@@ -1,10 +1,12 @@
-I'm<div align="center">
+<div align="center">
 
 # RAMSFIELD
 
 ### I don't wait until I know how. I figure it out.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=I+build+things.;I+break+things.;I+figure+things+out.;I+turn+ideas+into+working+projects.)](https://git.io/typing-svg)
+
+<img src="https://raw.githubusercontent.com/Ramsfield30/Ramsfield30/main/assets/terminal-cursor.svg" alt="Animated terminal prompt" width="620" />
 
 **Builder • Developer • Problem Solver**
 
@@ -45,7 +47,7 @@ I'm<div align="center">
                   =++*+*+*******+-=----==--.            ..:+***********+  .                  
                  :==++++++++*****=-==------:.          :::=***+****++*+*. :..                
                  :-=+++++*++++****=-==------.       ..::-. **++++**+**++ :..::.              
-                 .:=-+++=++++*++***+:===--=-:.      ..:-   ****++*++*++ ....:::.             
+                 .:=-+++=++++*++***+:===--=-:.      .:-   ****++*++*++ ....:::.             
                    :==++==++++++*****+-===--:.     .:-.    *****=-=+*- ...:-:::.:            
                     :=-++-+++++++*****==-===:.  .:-=:       *+:::-==  :.:--:.:..:            
                      .:=+==+=+===*+***+.:-=-----=-.        :::..-.  .:-=-:.  ::.             
